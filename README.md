@@ -1,4 +1,4 @@
-# Welcome to my portfolio!
+# Welcome to my GitHub!
 
 Hæ, I’m @Patrikur, a junior level web developer.
 You can find the code for my current projects as well as my portfolio in my [repository](https://github.com/Patrikur/Patrikur.github.io) where you can find documentation as well. Most of the pages are published with GitHub Pages.
